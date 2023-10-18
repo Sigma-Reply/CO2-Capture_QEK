@@ -1,0 +1,36 @@
+#number of pseudo atoms
+33
+#type      print   as    chem  oxidation   mass        charge   polarization B-factor radii  connectivity anisotropic anisotropic-type   tinker-type
+O         yes     O     O     0           15.9994     0.0      0.0          1.0      1.0    0            0           relative           0            
+N         yes     N     N     0           14.007      0.0      0.0          1.0      1.0    0            0           relative           0            
+C         yes     C     C     0           12.0        0.0      0.0          1.0      1.0    0            0           relative           0
+F         yes     F     F     0           18.9984     0.0      0.0          1.0      1.0    0            0           relative           0           
+H         yes     H     H     0           1.00794     0.0      0.0          1.0      1.0    0            0           relative           0           
+Zn        yes     Zn    Zn    0           65.38       0.0      0.0          1.0      1.0    0            0           relative           0           
+Fe        yes     Fe    Fe    0           55.8452     0.0      0.0          1.0      1.0    0            0           relative           0           
+Cu        yes     Cu    Cu    0           63.5463     0.0      0.0          1.0      1.0    0            0           relative           0        
+Co        yes     Co    Co    0           58.9332     0.0      0.0          1.0      1.0    0            0           relative           0           
+Ga        yes     Ga    Ga    0           69.7231     0.0      0.0          1.0      1.0    0            0           relative           0          
+Ti        yes     Ti    Ti    0           47.8671     0.0      0.0          1.0      1.0    0            0           relative           0          
+V         yes     V     V     0           50.9415     0.0      0.0          1.0      1.0    0            0           relative           0        
+Ni        yes     Ni    Ni    0           58.6934     0.0      0.0          1.0      1.0    0            0           relative           0          
+Zr        yes     Zr    Zr    0           91.2242     0.0      0.0          1.0      1.0    0            0           relative           0          
+Cd        yes     Cd    Cd    0           112.414     0.0      0.0          1.0      1.0    0            0           relative           0           
+Al        yes     Al    Al    0           26.9815     0.0      0.0          1.0      1.0    0            0           relative           0          
+Si        yes     Si    Si    0           28.085      0.0      0.0          1.0      1.0    0            0           relative           0           
+Nb        yes     Nb    Nb    0           92.9064     0.0      0.0          1.0      1.0    0            0           relative           0          
+Ru        yes     Ru    Ru    0           101.07      0.0      0.0          1.0      1.0    0            0           relative           0           
+Sn        yes     Sn    Sn    0           118.710     0.0      0.0          1.0      1.0    0            0           relative           0          
+Ge        yes     Ge    Ge    0           72.64       0.0      0.0          1.0      1.0    0            0           relative           0
+B         yes     B     B     0           10.81       0.0      0.0          1.0      1.0    0            0           relative           0          
+In        yes     In    In    0           114.8       0.0      0.0          1.0      1.0    0            0           relative           0
+CH3_sp3_C2H6_ethane    yes     C     C     0           15.03452    0.0      0.0          1.0      1.00   0            0           relative           0
+CH2_sp2_C2H4_ethene    yes     C     C     0           14.02658    0.0      0.0          1.0      1.00   0            0           relative           0
+Xe_Xe_xenon         yes     Xe    Xe    0           131.293     0.0      0.0          1.0      1.00   0            0           relative           0
+Kr_Kr_krypton         yes     Kr    Kr    0           83.798      0.0      0.0          1.0      1.00   0            0           relative           0
+CH4_sp3_CH4_methane    yes     C     C     0           16.04246    0.0      0.0          1.0      1.00   0            0           relative           0
+CH3_sp3_C3H8_propane    yes     C     C     0           15.03452    0.0      0.0          1.0      1.00   0            0           relative           0
+CH2_sp3_C3H8_propane    yes     C     C     0           14.02658    0.0      0.0          1.0      1.00   0            0           relative           0
+CH3_sp3_C3H6_propene    yes     C     C     0           15.03452    0.0      0.0          1.0      1.00   0            0           relative           0
+CH2_sp2_C3H6_propene    yes     C     C     0           14.02658    0.0      0.0          1.0      1.00   0            0           relative           0
+CH_sp2_C3H6_propene     yes     C     C     0           13.01864    0.0      0.0          1.0      1.00   0            0           relative           0

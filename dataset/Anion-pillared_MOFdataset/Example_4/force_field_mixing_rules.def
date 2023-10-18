@@ -1,0 +1,42 @@
+# general rule for shifted vs truncated
+truncated
+# general rule tailcorrections
+yes
+# number of defined interactions
+33
+# type interaction, parameters.    IMPORTANT: define shortest matches first, so that more specific ones overwrites thes
+O             lennard-jones    48.1581   3.03315
+N             lennard-jones    38.9492   3.26256
+C             lennard-jones    47.8562   3.47299
+F             lennard-jones    36.4834   3.0932
+H             lennard-jones     7.64893  2.84642
+Zn            lennard-jones    62.3992   2.46155
+Fe            lennard-jones     6.54185  2.5943
+Cu            lennard-jones     2.5161   3.11369
+Co            lennard-jones     7.04507  2.55866
+Ga            lennard-jones   201.28     3.91105
+Ti            lennard-jones     8.55473  2.8286
+V             lennard-jones     8.05151  2.80099
+Ni            lennard-jones     7.54829  2.52481
+Zr            lennard-jones    34.7221   2.78317
+Cd            lennard-jones   114.734    2.53728
+Al            lennard-Jones   155.998    3.91105
+Si            lennard-Jones   155.998    3.80414
+Nb            lennard-Jones   29.6888    2.81969
+Ru            lennard-Jones   28.1792    2.63973
+Sn            lennard-Jones   276.7600   3.98232
+Ge            lennard-Jones   201.2800   3.80414
+B             lennard-Jones   47.80400   3.58141
+In            lennard-Jones   276.7600   4.08923
+CH3_sp3_C2H6_ethane     lennard-jones    98.00     3.75
+CH2_sp2_C2H4_ethene     lennard-jones    85.00     3.675
+Xe_Xe_xenon     lennard-jones    221.0     4.1
+Kr_Kr_krypton     lennard-jones    166.4     3.636
+CH4_sp3_CH4_methane     lennard-jones    148.00     3.73
+CH3_sp3_C3H8_propane        lennard-jones    98.0     3.75
+CH2_sp3_C3H8_propane        lennard-jones    46.0     3.95
+CH3_sp3_C3H6_propene        lennard-jones    98.0     3.75
+CH2_sp2_C3H6_propene        lennard-jones    85.0     3.675
+CH_sp2_C3H6_propene         lennard-jones    47.0     3.73
+# general mixing rule for Lennard-Jones
+Lorentz-Berthelot
