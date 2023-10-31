@@ -240,6 +240,11 @@ ml = Models['RandomForestRegressor']
 df = pd.read_csv('Co2WithVolumetricAtomTypes.csv')
 df = df.dropna()
 
+#select_mof = ['AHOKIR01', 'BOHGOU', 'CICYIX', 'EBEMEF', 'FIGXAU', 'FIGXEY', 'FIVNAZ', 'FUTJOV', 'GISZUD', 'HAKWUM', 'IGAHED', 'KAHPUE', 'KECRAL10', 'LIKFOB', 'LUFQUZ01', 'LUFQUZ02', 'LUFQUZ', 'MOCHES', 'MOCHIW', 'MOCHOC', 'MOCHUI', 'MOCJAQ', 'MOCJEU', 'MOCJIY', 'NINHOH', 'NIVWIY', 'OLOKEF', 'PIYZAZ', 'REGJIW', 'RENWEM01', 'RONZID', 'RURPAW', 'RURPEA', 'SOBZOY', 'TILVUF', 'TILWAM', 'UHISOU', 'XOMCIL']
+
+#df = df[df["MOF"].isin(select_mof)]
+
+
 
 combinations = {
     "A+B+C": baseline_descriptors,
