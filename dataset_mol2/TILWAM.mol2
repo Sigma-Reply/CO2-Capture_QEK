@@ -1,0 +1,49 @@
+####################################################################### 
+# 
+# This file contains crystal structure data downloaded from the 
+# Cambridge Structural Database (CSD) hosted by the Cambridge 
+# Crystallographic Data Centre (CCDC).
+# 
+# Full information about CCDC data access policies and citation 
+# guidelines are available at http://www.ccdc.cam.ac.uk/access/V1 
+# 
+# Audit and citation data items may have been added by the CCDC. 
+# Please retain this information to preserve the provenance of 
+# this file and to allow appropriate attribution of the data. 
+# 
+#######################################################################
+@<TRIPOS>MOLECULE
+TILWAM
+    11     9     2     0     0
+SMALL
+NO_CHARGES
+****
+Generated from the CSD
+
+@<TRIPOS>ATOM
+     1 Br1      8.2517   8.2517   0.0000   Br        1 RES1   0.0000
+     2 C3       6.8886   6.8886   0.0000   C.3       1 RES1   0.0000
+     3 C4       5.7207   7.1623   0.6234   C.2       1 RES1   0.0000
+     4 C4D      7.1623   5.7207  -0.6234   C.2       1 RES1   0.0000
+     5 Cd1      2.9005   2.9005   0.0000   Cd        2 RES2   0.0000
+     6 C1       2.5000   1.2682   1.3149   C.2       2 RES2   0.0000
+     7 C2       4.8266   2.3540  -0.9295   C.2       2 RES2   0.0000
+     8 C1D      1.2682   2.5000  -1.3149   C.3       2 RES2   0.0000
+     9 C2D      2.3540   4.8266   0.9295   C.3       2 RES2   0.0000
+    10 C2A      2.2080   0.2646   1.9043   C.2       2 RES2   0.0000
+    11 C1E      5.8302   2.0620  -1.5189   C.2       2 RES2   0.0000
+@<TRIPOS>BOND
+     1     1     2    1
+     2     2     3    1
+     3     4     2    1
+     4     5     6    2
+     5     6    10    2
+     6     7     5    2
+     7     8     5    1
+     8     9     5    1
+     9    11     7    2
+@<TRIPOS>SUBSTRUCTURE
+     1 RES1        1 GROUP             0 ****  ****    0  
+     2 RES2        5 GROUP             0 ****  ****    0  
+@<TRIPOS>CRYSIN
+    9.1240    9.1240   11.3350   90.0000   90.0000   90.0000    92     1

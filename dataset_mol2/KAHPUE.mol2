@@ -1,0 +1,97 @@
+####################################################################### 
+# 
+# This file contains crystal structure data downloaded from the 
+# Cambridge Structural Database (CSD) hosted by the Cambridge 
+# Crystallographic Data Centre (CCDC).
+# 
+# Full information about CCDC data access policies and citation 
+# guidelines are available at http://www.ccdc.cam.ac.uk/access/V1 
+# 
+# Audit and citation data items may have been added by the CCDC. 
+# Please retain this information to preserve the provenance of 
+# this file and to allow appropriate attribution of the data. 
+# 
+#######################################################################
+@<TRIPOS>MOLECULE
+KAHPUE
+    35    32     3     0     0
+SMALL
+NO_CHARGES
+****
+Generated from the CSD
+
+@<TRIPOS>ATOM
+     1 C6       4.5400   3.8910   2.6931   C.1       1 RES1   0.0000
+     2 C7       3.8797   3.8910   1.8356   C.1       1 RES1   0.0000
+     3 C8       2.7332   3.8910   1.0786   C.2       1 RES1   0.0000
+     4 C6B      5.0986   3.8910   4.0061   C.1       1 RES1   0.0000
+     5 C7B      5.7588   3.8910   4.8636   C.1       1 RES1   0.0000
+     6 C8B      6.9054   3.8910   5.6206   C.2       1 RES1   0.0000
+     7 Cd1      0.0000   0.0000   0.0000   Cd        2 RES2   0.0000
+     8 Ni1     -0.9157   3.8910   3.3496   Ni        2 RES2   0.0000
+     9 N1      -0.9893   1.7113   1.2775   N.1       2 RES2   0.0000
+    10 C1      -0.9811   2.5603   2.0573   C.1       2 RES2   0.0000
+    11 N2       1.7871   0.0000   1.4390   N.3       2 RES2   0.0000
+    12 C2       1.5925   0.0000   2.8934   C.3       2 RES2   0.0000
+    13 C3       2.8675   0.0000   3.6839   C.3       2 RES2   0.0000
+    14 C4       2.6736   0.0000   5.1858   C.3       2 RES2   0.0000
+    15 C5       3.9664   0.0000   5.9576   C.3       2 RES2   0.0000
+    16 N1B      0.9893  -1.7113  -1.2775   N.3       2 RES2   0.0000
+    17 N1A      0.9893   1.7113  -1.2775   N.3       2 RES2   0.0000
+    18 N1C     -0.9893  -1.7113   1.2775   N.3       2 RES2   0.0000
+    19 N2B     -1.7871  -0.0000  -1.4390   N.3       2 RES2   0.0000
+    20 C1B     -0.8503   5.2217   4.6419   C.1       2 RES2   0.0000
+    21 C1A     -0.8503   2.5603   4.6419   C.1       2 RES2   0.0000
+    22 C1C     -0.9811   5.2217   2.0573   C.1       2 RES2   0.0000
+    23 C5B      3.8408   0.0000   7.4408   C.3       2 RES2   0.0000
+    24 N1B     -0.8421   6.0707   5.4216   N.1       2 RES2   0.0000
+    25 N1A     -0.8421   1.7113   5.4216   N.1       2 RES2   0.0000
+    26 N1C     -0.9893   6.0707   1.2775   N.1       2 RES2   0.0000
+    27 C4B      5.1335   0.0000   8.2125   C.3       2 RES2   0.0000
+    28 C3B      4.9397   0.0000   9.7145   C.3       2 RES2   0.0000
+    29 Cd1     -1.8314   7.7820   6.6992   Cd        2 RES2   0.0000
+    30 Cd1     -1.8314   0.0000   6.6992   Cd        2 RES2   0.0000
+    31 Cd1      0.0000   7.7820   0.0000   Cd        2 RES2   0.0000
+    32 C2A      6.2147   0.0000  10.5050   C.3       2 RES2   0.0000
+    33 N2A      6.0201   0.0000  11.9594   N.3       2 RES2   0.0000
+    34 Cd1      7.8071   0.0000  13.3983   Cd        2 RES2   0.0000
+    35 O1?      3.2935   4.6225   0.4555   O.3       3 RES3   0.0000
+@<TRIPOS>BOND
+     1     1     2    3
+     2     2     3    1
+     3     4     1    1
+     4     5     4    3
+     5     6     5    1
+     6     7     9    1
+     7     8    10    1
+     8     9    10    3
+     9    11     7    1
+    10    12    11    1
+    11    13    12    1
+    12    14    13    1
+    13    15    14    1
+    14    16     7    1
+    15    17     7    1
+    16    18     7    1
+    17    19     7    1
+    18    20     8    1
+    19    21     8    1
+    20    22     8    1
+    21    23    15    1
+    22    24    20    3
+    23    25    21    3
+    24    26    22    3
+    25    27    23    1
+    26    28    27    1
+    27    29    24    1
+    28    30    25    1
+    29    31    26    1
+    30    32    28    1
+    31    33    32    1
+    32    34    33    1
+@<TRIPOS>SUBSTRUCTURE
+     1 RES1        1 GROUP             0 ****  ****    0  
+     2 RES2        7 GROUP             0 ****  ****    0  
+     3 RES3       35 GROUP             0 ****  ****    0  
+@<TRIPOS>CRYSIN
+   11.4700    7.7820    6.9450   90.0000  105.2900   90.0000    10     1

@@ -1,0 +1,90 @@
+####################################################################### 
+# 
+# This file contains crystal structure data downloaded from the 
+# Cambridge Structural Database (CSD) hosted by the Cambridge 
+# Crystallographic Data Centre (CCDC).
+# 
+# Full information about CCDC data access policies and citation 
+# guidelines are available at http://www.ccdc.cam.ac.uk/access/V1 
+# 
+# Audit and citation data items may have been added by the CCDC. 
+# Please retain this information to preserve the provenance of 
+# this file and to allow appropriate attribution of the data. 
+# 
+#######################################################################
+@<TRIPOS>MOLECULE
+CICYIX
+    31    30     2     0     0
+SMALL
+NO_CHARGES
+****
+Generated from the CSD
+
+@<TRIPOS>ATOM
+     1 Cd1     -1.0978   2.9464   0.0000   Cd        1 RES1   0.0000
+     2 O1      -1.5096   4.9516  -1.0933   O.3       1 RES1   0.0000
+     3 O2      -2.6142   1.6431  -1.0486   O.3       1 RES1   0.0000
+     4 O4       2.1103  -0.2153   1.7661   O.3       1 RES1   0.0000
+     5 C1       1.4633   0.6642   2.5768   C.2       1 RES1   0.0000
+     6 C2       0.3413   1.3869   1.8994   C.2       1 RES1   0.0000
+     7 O5       0.0643   1.0876   0.7023   O.co2     1 RES1   0.0000
+     8 O6      -0.2192   2.2891   2.5457   O.co2     1 RES1   0.0000
+     9 C3       1.8371   0.8754   3.8481   C.2       1 RES1   0.0000
+    10 C4       2.9792   0.1991   4.4141   C.2       1 RES1   0.0000
+    11 O7       3.3581   0.3844   5.5892   O.2       1 RES1   0.0000
+    12 C5       3.6516  -0.6908   3.5087   C.2       1 RES1   0.0000
+    13 C6       3.1984  -0.8553   2.2479   C.2       1 RES1   0.0000
+    14 C7       3.8523  -1.7498   1.2183   C.2       1 RES1   0.0000
+    15 O8       3.2150  -1.9923   0.1720   O.co2     1 RES1   0.0000
+    16 O9       4.9963  -2.1350   1.5274   O.co2     1 RES1   0.0000
+    17 H1      -2.2388   4.9486  -1.4668   H         1 RES1   0.0000
+    18 H2      -1.5509   5.5345  -0.5205   H         1 RES1   0.0000
+    19 H3      -2.3837   0.9272  -1.3721   H         1 RES1   0.0000
+    20 H4      -3.4143   1.7052  -1.2100   H         1 RES1   0.0000
+    21 H7       1.3408   1.4816   4.3853   H         1 RES1   0.0000
+    22 H8       4.4207  -1.1669   3.7996   H         1 RES1   0.0000
+    23 Cd1      2.1242   0.9991   7.5765   Cd        1 RES1   0.0000
+    24 Cd1      1.0978  -2.9464   0.0000   Cd        1 RES1   0.0000
+    25 Cd1      6.4240  -2.9464   0.0000   Cd        1 RES1   0.0000
+    26 O7       0.1361   2.3316  -1.9873   O.3       1 RES1   0.0000
+    27 O8       1.0193   3.9004   0.1720   O.3       1 RES1   0.0000
+    28 O9      -2.5256   3.7577   1.5274   O.3       1 RES1   0.0000
+    29 O3      -0.7304   3.2649   5.1301   O.3       2 RES2   0.0000
+    30 H5      -1.2505   2.7296   5.4680   H         2 RES2   0.0000
+    31 H6      -0.7232   3.0918   4.3292   H         2 RES2   0.0000
+@<TRIPOS>BOND
+     1     1     2    1
+     2     2    17    1
+     3     3     1    1
+     4     4     5    1
+     5     5     6    1
+     6     6     7    1
+     7     7     1    1
+     8     8     6    2
+     9     9     5    2
+    10    10     9    1
+    11    11    10    2
+    12    12    10    1
+    13    13     4    1
+    14    14    13    1
+    15    15    14   un
+    16    16    14   un
+    17    18     2    1
+    18    19     3    1
+    19    20     3    1
+    20    21     9    1
+    21    22    12    1
+    22    23    11    1
+    23    24    15    1
+    24    25    16    1
+    25    26     1    1
+    26    27     1    1
+    27    28     1    1
+    28    12    13    2
+    29    29    30    1
+    30    31    29    1
+@<TRIPOS>SUBSTRUCTURE
+     1 RES1        1 GROUP             0 ****  ****    0  
+     2 RES2       29 GROUP             0 ****  ****    0  
+@<TRIPOS>CRYSIN
+    5.3262    6.2885    8.1008   97.7330  105.0554  110.4356     1     1

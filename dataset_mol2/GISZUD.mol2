@@ -1,0 +1,53 @@
+####################################################################### 
+# 
+# This file contains crystal structure data downloaded from the 
+# Cambridge Structural Database (CSD) hosted by the Cambridge 
+# Crystallographic Data Centre (CCDC).
+# 
+# Full information about CCDC data access policies and citation 
+# guidelines are available at http://www.ccdc.cam.ac.uk/access/V1 
+# 
+# Audit and citation data items may have been added by the CCDC. 
+# Please retain this information to preserve the provenance of 
+# this file and to allow appropriate attribution of the data. 
+# 
+#######################################################################
+@<TRIPOS>MOLECULE
+GISZUD
+    13    11     2     0     0
+SMALL
+NO_CHARGES
+****
+Generated from the CSD
+
+@<TRIPOS>ATOM
+     1 O1       2.7454   2.2918   5.6779   O.2       1 RES1   0.0000
+     2 O2       4.4796   2.2918   5.1851   O.3       1 RES1   0.0000
+     3 C4       3.5314   2.2918   4.6396   C.2       1 RES1   0.0000
+     4 C5       2.9162   2.2917   3.3449   C.3       1 RES1   0.0000
+     5 C6       5.1050   2.2918   6.4346   C.2       1 RES1   0.0000
+     6 Cd1      5.0438   2.2918  11.2577   Cd        2 RES2   0.0000
+     7 C1       4.4057   4.0821  12.3060   C.2       2 RES2   0.0000
+     8 C2       3.2849   2.2918   9.7857   C.2       2 RES2   0.0000
+     9 C3       6.6820   2.2918   9.8297   C.2       2 RES2   0.0000
+    10 C1G      4.4057   0.5014  12.3060   C.3       2 RES2   0.0000
+    11 C1D      4.0913   5.0849  12.8340   C.2       2 RES2   0.0000
+    12 C3B      2.4335   2.2918   9.0253   C.2       2 RES2   0.0000
+    13 C2B      7.5334   2.2918   9.0693   C.2       2 RES2   0.0000
+@<TRIPOS>BOND
+     1     1     3    2
+     2     2     3    1
+     3     3     4    1
+     4     5     2    1
+     5     6     7    2
+     6     7    11    2
+     7     8     6    2
+     8     9     6    2
+     9    10     6    1
+    10    12     8    2
+    11    13     9    2
+@<TRIPOS>SUBSTRUCTURE
+     1 RES1        1 GROUP             0 ****  ****    0  
+     2 RES2        6 GROUP             0 ****  ****    0  
+@<TRIPOS>CRYSIN
+    8.4970    9.1670   12.5700   90.0000   90.0000   90.0000    62     1
